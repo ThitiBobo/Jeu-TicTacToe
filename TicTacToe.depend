@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1550241638 source:/mnt/storage/Documents/Travails/c++/TicTacToe/main.cpp
+	<iostream>
+
+1550246969 source:/mnt/storage/Documents/Travails/c++/TicTacToe/src/TicTacToeGrid.cpp
+	"TicTacToeGrid.h"
+
+1550248794 /mnt/storage/Documents/Travails/c++/TicTacToe/include/TicTacToeGrid.h
+
